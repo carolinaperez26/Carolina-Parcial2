@@ -1,0 +1,33 @@
+.blue{
+    border: 1px solid #141d20;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    background-color: #30acff;
+}  
+
+.fuerte{
+    border: 1px solid #141d20;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21px;
+    background-color: rgb(6, 90, 216); 
+}
+
+.form-examen{
+    width: 850px;
+    background-color: rgb(83, 210, 248);
+    padding: 50px;
+    margin-top: 30px;
+    border-radius: 50px;
+    border-width: 30px;
+    border: 15px solid #2316e6;
+    }
+
+    .boton{
+        width: 32%;
+        padding: 55px;
+        margin-bottom: 3px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 30px;
+        margin-left: 500px;
+    }  
+    
